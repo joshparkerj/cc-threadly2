@@ -123,19 +123,10 @@ li:nth-child(11) {
 opacity:0;
 }
 
-
-
 form input[type=text] {
 width:400px;
 }
-}
-
-
 
 form input[type=text] {
 width:600px;
-}
-}
-
-
 }
